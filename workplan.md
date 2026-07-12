@@ -1,7 +1,4 @@
-# Ktebli
-Below is a GitHub Issues-ready implementation plan organized as Epics → actionable Issues/Tasks → Acceptance Criteria.
-
-You can copy these directly into GitHub Issues, GitHub Projects, Linear, Jira, or Azure DevOps.
+# Ktebi
 
 GitHub Issues Plan
 AI-Powered Universal Voice Dictation Assistant
